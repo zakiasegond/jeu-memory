@@ -36,12 +36,6 @@ $("img").click(function()
 
 
 
-
-	
-
-
-
-
 // image1.src = "joker-noir.png";
 // arr.push(image1);
 // image2.src = "R-coeur.png";
