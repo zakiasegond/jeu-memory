@@ -56,8 +56,6 @@ function shuffle()
 
 shuffle();
 
-
-
 $("#p1").hide();
 $("#p2").hide();
 

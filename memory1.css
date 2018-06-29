@@ -1,4 +1,29 @@
 img{
 	height :150px;
 	width: 200px;
+	padding-top: 5%;
+	margin-right: 10px;
+}
+
+#texte{
+	text-align: center;
+	font-size: 50px;
+	
+}
+
+
+#jouer{
+	text-align: center;
+	font-size: 50px;
+	color: red;
+}
+
+
+body
+{
+	background-image: url("coupeballon.jpg"); /* pour faire des commentaire*/
+	background-repeat: no-repeat;
+	background-position: top;
+	background-size: cover;
+
 }
